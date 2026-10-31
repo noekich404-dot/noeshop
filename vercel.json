@@ -1,0 +1,8 @@
+{
+  "outputDirectory": "public",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api" },
+    { "source": "/go/(.*)", "destination": "/api" }
+  ],
+  "functions": { "api/index.js": { "includeFiles": "data/**", "maxDuration": 30 } }
+}
