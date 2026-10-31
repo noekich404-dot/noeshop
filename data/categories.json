@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cd8c1e7fc483",
+    "name": "Elektronik",
+    "slug": "elektronik",
+    "icon": "🎧"
+  },
+  {
+    "id": "2bfafc6d39b2",
+    "name": "Fashion",
+    "slug": "fashion",
+    "icon": "👕"
+  },
+  {
+    "id": "500cbe41822e",
+    "name": "Kecantikan",
+    "slug": "kecantikan",
+    "icon": "💄"
+  },
+  {
+    "id": "6b28127ab3b7",
+    "name": "Rumah Tangga",
+    "slug": "rumah-tangga",
+    "icon": "🏠"
+  },
+  {
+    "id": "c16eacf00d24",
+    "name": "Olahraga",
+    "slug": "olahraga",
+    "icon": "⚽"
+  },
+  {
+    "id": "bdf6d3cc0406",
+    "name": "Gadget",
+    "slug": "gadget",
+    "icon": "📱"
+  }
+]

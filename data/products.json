@@ -1,0 +1,146 @@
+[
+  {
+    "id": "32a2e7a7de17",
+    "title": "Earbuds Wireless ANC Pro",
+    "category": "elektronik",
+    "marketplace": "shopee",
+    "price": 349000,
+    "oldPrice": 599000,
+    "image": "https://picsum.photos/seed/noe0/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe0/800/800",
+      "https://picsum.photos/seed/noeb0/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1793438229519
+  },
+  {
+    "id": "ca77b337a487",
+    "title": "Smartwatch AMOLED Series 8",
+    "category": "gadget",
+    "marketplace": "tokopedia",
+    "price": 489000,
+    "oldPrice": 799000,
+    "image": "https://picsum.photos/seed/noe1/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe1/800/800",
+      "https://picsum.photos/seed/noeb1/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1793351829519
+  },
+  {
+    "id": "c39c9e9b3ed9",
+    "title": "Hoodie Oversize Premium Cotton",
+    "category": "fashion",
+    "marketplace": "tiktok",
+    "price": 129000,
+    "oldPrice": 219000,
+    "image": "https://picsum.photos/seed/noe2/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe2/800/800",
+      "https://picsum.photos/seed/noeb2/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1793265429519
+  },
+  {
+    "id": "9385328bdbd4",
+    "title": "Serum Vitamin C Brightening 30ml",
+    "category": "kecantikan",
+    "marketplace": "shopee",
+    "price": 89000,
+    "oldPrice": 149000,
+    "image": "https://picsum.photos/seed/noe3/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe3/800/800",
+      "https://picsum.photos/seed/noeb3/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1793179029519
+  },
+  {
+    "id": "ffdaa9ee6cc9",
+    "title": "Air Fryer Digital 4L Low Watt",
+    "category": "rumah-tangga",
+    "marketplace": "tokopedia",
+    "price": 399000,
+    "oldPrice": 599000,
+    "image": "https://picsum.photos/seed/noe4/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe4/800/800",
+      "https://picsum.photos/seed/noeb4/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1793092629520
+  },
+  {
+    "id": "879b1f9f0d34",
+    "title": "Sepatu Lari Ultralight Pria",
+    "category": "olahraga",
+    "marketplace": "shopee",
+    "price": 259000,
+    "oldPrice": 429000,
+    "image": "https://picsum.photos/seed/noe5/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe5/800/800",
+      "https://picsum.photos/seed/noeb5/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1793006229520
+  },
+  {
+    "id": "082b76ee1e49",
+    "title": "Power Bank 20.000mAh Fast Charging",
+    "category": "gadget",
+    "marketplace": "tiktok",
+    "price": 179000,
+    "oldPrice": 279000,
+    "image": "https://picsum.photos/seed/noe6/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe6/800/800",
+      "https://picsum.photos/seed/noeb6/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1792919829520
+  },
+  {
+    "id": "64aa17f89983",
+    "title": "Kemeja Linen Casual Slim Fit",
+    "category": "fashion",
+    "marketplace": "tokopedia",
+    "price": 119000,
+    "oldPrice": 189000,
+    "image": "https://picsum.photos/seed/noe7/800/800",
+    "images": [
+      "https://picsum.photos/seed/noe7/800/800",
+      "https://picsum.photos/seed/noeb7/800/800"
+    ],
+    "description": "Produk pilihan NOESHOP. Edit deskripsi ini dari panel admin.",
+    "affiliateUrl": "https://shopee.co.id",
+    "clicks": 0,
+    "active": true,
+    "created": 1792833429520
+  }
+]

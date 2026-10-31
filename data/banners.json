@@ -1,0 +1,18 @@
+[
+  {
+    "id": "94e8348398eb",
+    "title": "Promo Gajian",
+    "subtitle": "Diskon hingga 60% dari marketplace favorit",
+    "image": "https://picsum.photos/seed/promo1/1200/500",
+    "link": "products.html?sort=murah",
+    "active": true
+  },
+  {
+    "id": "d4a1e1630540",
+    "title": "Gadget Pilihan",
+    "subtitle": "Upgrade perangkatmu dengan harga terbaik",
+    "image": "https://picsum.photos/seed/promo2/1200/500",
+    "link": "category.html?c=gadget",
+    "active": true
+  }
+]
